@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Tode Development'
+author 'jaki__'
 description 'Website in a Ipad!'
 version '1.0.0'
 
