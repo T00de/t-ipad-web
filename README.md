@@ -1,4 +1,4 @@
-# t-ipad-web
+# jaki_ipad_web
 
 This is a website in an ipad so you can do things on them as you would on google. But fell into an ipad IG.
 
